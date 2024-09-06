@@ -1,0 +1,26 @@
+/* .firstDiv{
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+ */
+
+.parentDiv{
+    
+    
+    width: 70%;
+    height: 70vh;
+    background-color: rgb(255, 0, 234);
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.childDiv{
+    width: 50%;
+    background-color: aqua;
+    height: 50vh;
+    padding: 5px;
+    overflow: auto;
+}
